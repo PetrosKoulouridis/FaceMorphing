@@ -8,7 +8,7 @@ The code creates a morphing sequence between two faces (pictures) whose facial f
 |![face 1](images/face1.jpg)|![quarter face](images/quarter_face.jpg)|![half face](images/half_face.jpg)|![three quarter face](images/three_quarters_face.jpg)|![face 2](images/face2.jpg)|
 
 ## Project Structure
-<code><pre>.
+<pre><code>.
 |_images: original images, resulting morphing sequence and demonstrative frames.
 |_points: facial features of the 2 pictures.
 |_transformations: code relevant to the computation and application of an affine transformation on triangles.
